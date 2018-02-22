@@ -1,5 +1,4 @@
-## Some Randomn Data
-##Data from MASTER
+##Removed scrap commits
 LS(1)                                                          User Commands                                                          LS(1)
 
 NAME
