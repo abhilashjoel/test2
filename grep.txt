@@ -1,5 +1,9 @@
 #Some Random Data
+<<<<<<< HEAD
 #Adding data in Master
+=======
+#new Branch Data
+>>>>>>> NewBranch
 GREP(1)                                                   General Commands Manual                                                   GREP(1)
 
 NAME
